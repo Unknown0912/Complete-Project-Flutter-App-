@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835168139613",
+    "project_id": "aves-bird-species-d0b97",
+    "storage_bucket": "aves-bird-species-d0b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835168139613:android:df1eb3032a7ff6d709d0b4",
+        "android_client_info": {
+          "package_name": "com.example.bird_species"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835168139613-j9i05mpe7lahabme2k9si2njd1bbip55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMh0DnbidmoNFs7KAtxbwsVksrYH0ZTAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835168139613-j9i05mpe7lahabme2k9si2njd1bbip55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
